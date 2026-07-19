@@ -1,0 +1,21 @@
+---
+title: "Minjia Fu"
+---
+
+## Welcome
+
+I am an incoming PhD student in Economics at ENS de Lyon.
+
+My research interests include urban and transport economics, economic
+geography, political economy, and spatial inequality.
+
+This website contains information about my research, academic background,
+and selected research notes.
+
+## Research interests
+
+- Urban and transport economics
+- Economic geography
+- Spatial inequality
+- Political economy
+- Applied econometrics
