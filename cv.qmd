@@ -5,7 +5,7 @@ description: "Academic CV of Minjia Fu"
 
 My current academic CV includes my education, research interests, research experience, teaching, selected projects, and technical skills.
 
-[Download CV as PDF](cv/Minjia_Fu_CV.pdf){.button .button-primary}
+[Download CV as PDF](cv/Minjia_Fu_CV.pdf)
 
 ## Current position
 

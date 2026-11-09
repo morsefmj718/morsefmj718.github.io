@@ -15,28 +15,20 @@ These questions motivated my master's thesis on the political consequences of ra
 
 ## Education
 
-::: {.timeline}
-::: {.timeline-item}
 ### PhD in Economics
 
 **ENS de Lyon · CERGIC**  
 October 2026-present  
 Supervisor: Florence Goffette-Nagot
-:::
 
-::: {.timeline-item}
 ### Erasmus Mundus Joint Master in Models and Methods of Quantitative Economics
 
 **Paris 1 Panthéon-Sorbonne · UCLouvain · Paris School of Economics**  
 2024-2026  
 M2 in Analysis and Policy in Economics, completed in 2026
-:::
 
-::: {.timeline-item}
 ### BSc Honours in Applied Mathematics
 
 **National University of Singapore**  
 2020-2024  
 Second Major in Economics · Minor in French Studies
-:::
-:::

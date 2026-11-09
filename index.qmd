@@ -1,74 +1,32 @@
 ---
 title: "Minjia Fu"
-pagetitle: "Minjia Fu | Economics PhD student"
+pagetitle: "Economics PhD student"
 description: "Research in economic geography, spatial inequality, urban economics and transport economics"
-page-layout: full
-title-block-banner: false
 ---
 
-::: {.home-hero}
-::: {.hero-copy}
-<p class="eyebrow">PhD student in Economics · ENS de Lyon · CERGIC</p>
+::: {.profile}
+::: {.profile-photo}
+<img src="assets/minjia-fu.jpg" alt="Portrait of Minjia Fu">
+:::
 
-# Minjia Fu
+::: {.profile-text}
+**PhD student in Economics**  
+ENS de Lyon · CERGIC  
+Supervisor: Florence Goffette-Nagot
 
-I am a PhD student in Economics at ENS de Lyon, affiliated with CERGIC, under the supervision of Florence Goffette-Nagot.
+::: {.profile-contact}
+[minjia.fu@ens-lyon.fr](mailto:minjia.fu@ens-lyon.fr)  
+[e0540014@u.nus.edu](mailto:e0540014@u.nus.edu)
+:::
 
-My research interests lie in economic geography, spatial inequality, and urban economics. I am particularly interested in how changes in infrastructure and connectivity affect the distribution of economic opportunities across places and populations.
+I am a PhD student in Economics at ENS de Lyon, affiliated with CERGIC. My research interests lie in economic geography, spatial inequality, and urban economics.
 
-::: {.hero-actions}
-[View my research](research.qmd){.button .button-primary}
-[Download my CV](cv/Minjia_Fu_CV.pdf){.button .button-secondary}
+I am particularly interested in how changes in infrastructure and connectivity affect the distribution of economic opportunities across places and populations. My previous research examined the political consequences of railway station closures in France.
+
+[Research](research.qmd) · [Teaching](teaching.qmd) · [Download CV](cv/Minjia_Fu_CV.pdf)
 :::
 :::
 
-::: {.hero-image}
-![Portrait of Minjia Fu](assets/minjia-fu.jpg)
-:::
-:::
-
-::: {.home-body}
-::: {.question-block}
-## Questions that motivate my work
-
-Who benefits from changes in connectivity, and who becomes worse off? How do they affect where people choose to live, their access to labour markets, and the development of cities and regions?
-:::
-
-::: {.interest-panel}
 ## Research interests
 
-::: {.tag-list}
-`Economic Geography`{.interest-tag}
-`Spatial Inequality`{.interest-tag}
-`Urban Economics`{.interest-tag}
-`Transport Economics`{.interest-tag}
-`Political Economy`{.interest-tag}
-:::
-:::
-
-::: {.home-links}
-::: {.home-link-card}
-### Research
-
-My thesis and earlier projects on infrastructure, railway networks, and spatial change.
-
-[Read about my research →](research.qmd)
-:::
-
-::: {.home-link-card}
-### Teaching
-
-An editable course outline for my part of *Topics in Microeconomics (M2)* at ENS de Lyon.
-
-[View the course outline →](teaching.qmd)
-:::
-
-::: {.home-link-card}
-### About
-
-How infrastructure development in China and railway history in France shaped my research interests.
-
-[Read my story →](about.qmd)
-:::
-:::
-:::
+Economic Geography · Spatial Inequality · Urban Economics · Transport Economics · Political Economy
