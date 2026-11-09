@@ -1,7 +1,7 @@
 ---
 title: "Minjia Fu"
 pagetitle: "Economics PhD student"
-description: "Research in economic geography, spatial inequality, urban economics and transport economics"
+description-meta: "Research in economic geography, spatial inequality, urban economics and transport economics"
 ---
 
 ::: {.profile}
@@ -19,14 +19,10 @@ Supervisor: Florence Goffette-Nagot
 [e0540014@u.nus.edu](mailto:e0540014@u.nus.edu)
 :::
 
-I am a PhD student in Economics at ENS de Lyon, affiliated with CERGIC. My research interests lie in economic geography, spatial inequality, and urban economics.
+I am a PhD student in Economics at ENS de Lyon, affiliated with CERGIC. My research lies in economic geography, spatial inequality, and urban economics.
 
 I am particularly interested in how changes in infrastructure and connectivity affect the distribution of economic opportunities across places and populations. My previous research examined the political consequences of railway station closures in France.
 
 [Research](research.qmd) · [Teaching](teaching.qmd) · [Download CV](cv/Minjia_Fu_CV.pdf)
 :::
 :::
-
-## Research interests
-
-Economic Geography · Spatial Inequality · Urban Economics · Transport Economics · Political Economy

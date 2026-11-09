@@ -23,7 +23,6 @@ website:
         text: CV
   page-footer:
     left: "© 2026 Minjia Fu"
-    right: "Built with Quarto"
   open-graph: true
   twitter-card: true
   search: false

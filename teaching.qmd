@@ -1,51 +1,45 @@
 ---
 title: "Teaching"
-description: "Course outline for Topics in Microeconomics M2 at ENS de Lyon"
+description-meta: "Teaching in Topics in Microeconomics (M2) at ENS de Lyon"
 ---
 
-**Semester 1 · 2026-2027 · ENS de Lyon**
+**Semester 1 · 2026–2027 · ENS de Lyon**
 
-## Topics in Microeconomics M2
+## Topics in Microeconomics (M2)
 
-**My teaching theme:** Transport, Spatial Inequality and Demographic Change  
-**Teaching:** Co-instructor with Alex Newnham
+**Theme:** Transport, Spatial Inequality, and Demographic Change  
+**Role:** Co-instructor with Alex Newnham
 
-During Semester 1 of 2026-2027, I am co-teaching *Topics in Microeconomics* at ENS de Lyon with Alex Newnham. I am responsible for approximately half of the course. My part focuses on how transport infrastructure shapes economic geography, from the development of transport networks to their unequal effects and eventual withdrawal.
+During Semester 1 of 2026–2027, I am co-teaching *Topics in Microeconomics* at ENS de Lyon with Alex Newnham. I am responsible for approximately half of the course. My part focuses on how transport infrastructure shapes economic geography, from the development of transport networks to their unequal effects and eventual withdrawal.
 
-We will look at why some cities and regions become better connected than others, who benefits from transport investment, and what happens to communities when infrastructure or public services are reduced. We will draw on examples from France, China, and other countries, and use empirical research to discuss economic mechanisms and the challenges of identifying causal effects.
+My sessions examine why some cities and regions become better connected than others, who benefits from transport investment, and what happens to communities when infrastructure or public services are reduced. They draw on examples from France, China, and other countries and use empirical research to discuss economic mechanisms and the challenges of identifying causal effects.
 
-**Course outline status.** This page is an editable outline of my teaching sessions, not an official or final ENS de Lyon syllabus. Session 1 is confirmed; Sessions 2-4 and the readings remain provisional.
+## Sessions
 
-## Outline of my teaching sessions
+### Session 1: Building Networks and Making Places
 
-### Session 1 Building Networks and Making Places
-
-*Confirmed*  
 *Can transport infrastructure create growth and new centres?*
 
 How administrative decisions and transport networks shape the geography of economic activity. Historical cases from France and China, trade costs, market access, and evidence on railway expansion and development.
 
-### Session 2 Unequal Effects of Transport Infrastructure
+### Session 2: Unequal Effects of Transport Infrastructure
 
-*Planned*  
 How transport investments affect connected and bypassed places differently. High-speed rail and other projects provide cases for thinking about the distribution of economic benefits, accessibility, and local development.
 
-### Session 3 Infrastructure Withdrawal and Local Effects
+### Session 3: Infrastructure Withdrawal and Local Effects
 
-*Planned*  
 Why transport or other local public services are reduced or closed, what these changes mean for accessibility and local economies, and how effects may differ with the available alternatives.
 
-### Session 4 Transport Residential Sorting and Spatial Inequality
+### Session 4: Transport, Residential Sorting, and Spatial Inequality
 
-*Planned*  
 How transport connections interact with residential location, differences in income, access to opportunities, and segregation across neighbourhoods.
 
-## Selected illustrative readings
+## Selected readings
 
-These readings illustrate the themes of the sessions. They are not yet a final required reading list.
+Selected readings for these sessions include:
 
-- Chambru, C., E. Henry, and B. Marx (2024). “The Dynamic Consequences of State Building: Evidence from the French Revolution.” *American Economic Review* 114(11), 3578-3622. Session 1.
-- Bai, Y. and R. Jia (2023). “The Economic Consequences of Political Hierarchy: Evidence from Regime Changes in China, AD 1000-2000.” *Review of Economics and Statistics* 105(3), 626-645. Session 1.
-- Donaldson, D. (2018). “Railroads of the Raj: Estimating the Impact of Transportation Infrastructure.” *American Economic Review* 108(4-5), 899-934. Session 1.
-- Qin, Y. (2017). “No County Left Behind? The Distributional Impact of High-Speed Rail Upgrades in China.” *Journal of Economic Geography* 17(3), 489-520. Possible Session 2.
-- Di Cataldo, M. and G. Romani (2024). “Rational Cuts? The Local Impact of Closing Undersized Schools.” *Regional Science and Urban Economics* 109, 104057. Possible Session 3.
+- Chambru, C., E. Henry, and B. Marx (2024). “The Dynamic Consequences of State Building: Evidence from the French Revolution.” *American Economic Review* 114(11), 3578–3622. Session 1.
+- Bai, Y. and R. Jia (2023). “The Economic Consequences of Political Hierarchy: Evidence from Regime Changes in China, AD 1000–2000.” *Review of Economics and Statistics* 105(3), 626–645. Session 1.
+- Donaldson, D. (2018). “Railroads of the Raj: Estimating the Impact of Transportation Infrastructure.” *American Economic Review* 108(4–5), 899–934. Session 1.
+- Qin, Y. (2017). “No County Left Behind? The Distributional Impact of High-Speed Rail Upgrades in China.” *Journal of Economic Geography* 17(3), 489–520. Session 2.
+- Di Cataldo, M. and G. Romani (2024). “Rational Cuts? The Local Impact of Closing Undersized Schools.” *Regional Science and Urban Economics* 109, 104057. Session 3.

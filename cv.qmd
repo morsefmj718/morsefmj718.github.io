@@ -1,20 +1,6 @@
 ---
 title: "Curriculum Vitae"
-description: "Academic CV of Minjia Fu"
+description-meta: "Academic curriculum vitae"
 ---
 
-My current academic CV includes my education, research interests, research experience, teaching, selected projects, and technical skills.
-
-[Download CV as PDF](cv/Minjia_Fu_CV.pdf)
-
-## Current position
-
-**PhD student in Economics**  
-ENS de Lyon · CERGIC · since October 2026  
-Supervisor: Florence Goffette-Nagot
-
-## Research interests
-
-Economic Geography · Spatial Inequality · Urban Economics · Transport Economics · Political Economy
-
-The PDF was last updated in November 2026. The editable LaTeX source is kept with the website source.
+[Download my academic CV (PDF)](cv/Minjia_Fu_CV.pdf).
