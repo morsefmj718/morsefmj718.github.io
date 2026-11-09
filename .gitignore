@@ -1,2 +1,8 @@
 /.quarto/
 **/*.quarto_ipynb
+/codex_handoff/
+/Personal Photo/
+/tmp/
+/cv/*.aux
+/cv/*.log
+/cv/*.out

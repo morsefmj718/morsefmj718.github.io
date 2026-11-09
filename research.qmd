@@ -1,0 +1,71 @@
+---
+title: "Research"
+description: "Research projects and research experience of Minjia Fu"
+---
+
+My work is centred on economic geography, spatial inequality, and urban economics. Transport networks provide one setting in which I study how changes in connectivity affect places and populations.
+
+## Master's thesis
+
+### The Political Consequences of Infrastructure Withdrawal Electoral Effects of Railway Station Closures in France
+
+**Completed June 2026**  
+Supervisor: Camille Hémet · Université Paris 1 Panthéon-Sorbonne and Paris School of Economics
+
+This thesis examines the relationship between changes in access to passenger railway stations and French electoral outcomes in the late 1960s and early 1970s. It brings together historical railway-station data, electoral returns, commune characteristics, and measures of accessibility. The thesis does not claim definitive causal findings.
+
+## Selected earlier projects
+
+::: {.project-list}
+::: {.project-item}
+### The Survival of French Railway Stations
+
+**Advanced Microeconometrics Project · Paris School of Economics · 2025**  
+A station-age duration analysis of railway station closures.
+:::
+
+::: {.project-item}
+### Hypergraph and its application in Transport Network Modelling
+
+**Honours Thesis · National University of Singapore · 2023-2024**  
+An application of hypergraph methods to transport network efficiency and robustness.
+:::
+:::
+
+## Research experience
+
+The entries below describe my contributions to collaborative projects rather than the projects' unpublished findings.
+
+::: {.experience-list}
+::: {.experience-item}
+### Research Assistant · Hugo Subtil
+
+**Social Ties Project · 1 July-30 September 2026**
+
+I contributed to research data construction and analysis, including harmonisation of historical French electoral datasets, reproducible processing of political text data, and preparation of exploratory analyses and validation procedures.
+:::
+
+::: {.experience-item}
+### Research Assistant · Paris School of Economics
+
+**Supervisor: Pamina Koenig · July 2025-April 2026**
+
+For *Media Citations and the Rana Plaza Event*, I developed workflows to collect, clean, and classify multilingual media coverage of multinational brands, including automated text processing in R and Python.
+:::
+
+::: {.experience-item}
+### Research Assistant · HKUST Guangzhou
+
+**Supervisor: Yangsiyu Lu · July-September 2025**
+
+I contributed to data construction and preliminary geospatial analysis of rare-earth and critical-mineral projects and ownership.
+:::
+
+::: {.experience-item}
+### Research Assistant · Centre for Music and Health NUS
+
+**Supervisor: Kat Agres · May-June 2024**
+
+I supported surveys and fieldwork for research comparing live and prerecorded music with dialysis patients.
+:::
+:::

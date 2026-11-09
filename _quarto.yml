@@ -1,21 +1,42 @@
 project:
   type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
 
 website:
   title: "Minjia Fu"
+  description: "Academic website of Minjia Fu, PhD student in Economics at ENS de Lyon"
+  site-url: "https://morsefmj718.github.io"
   navbar:
+    title: "Minjia Fu"
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+  page-footer:
+    left: "© 2026 Minjia Fu"
+    right: "Built with Quarto"
+  open-graph: true
+  twitter-card: true
+  search: false
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: true
 
-
-
+resources:
+  - cv/Minjia_Fu_CV.pdf
+  - assets/minjia-fu.jpg
